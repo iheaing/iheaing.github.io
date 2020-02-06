@@ -1,3 +1,6 @@
 # 鄭成福 ABu
-wechat: iheaing<br>
-email: iheaing@yahoo.com
+
+ - wechat: iheaing
+ - phone: 13533452016
+ - email: iheaing@yahoo.com
+ - subscription account: ajdx2013
