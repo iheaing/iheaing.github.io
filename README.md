@@ -12,7 +12,10 @@
 
  ***
  1. 喜欢的书有《呼兰河传》, 《大人物》
- 1. 喜欢的电影有 *Léon: The Professional*, *Cold Mountain*, *Mad Max: Fury Road*
+ 1. 喜欢的电影有
+   *Léon: The Professional*
+   *Cold Mountain*
+   *Mad Max: Fury Road*
 
  ***
  - 工作二十年，在企业信息化上有一点心得
