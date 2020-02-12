@@ -14,7 +14,7 @@
  - 喜欢的书有《呼兰河传》, 《大人物》
  - 喜欢的电影有
    - *Léon: The Professional*
-   - *Cold Mountain*
+   - *Inside Llewyn Davis*
    - *Mad Max: Fury Road*
 
  ***
