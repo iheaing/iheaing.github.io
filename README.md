@@ -22,4 +22,5 @@
  - 赋闲中, 工作近二十年，在企业信息化上有一点心得
 
  ***
+ - 测试 ImgURL
 [img]https://s3.bmp.ovh/imgs/2022/10/24/c38f2fc670b10d49.png[/img]
