@@ -2,7 +2,6 @@
 
  - wechat: iheaing
  - email: iheaing@yahoo.com
- - subscription account: ajdx2013
 
  ***
 
